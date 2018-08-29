@@ -1,0 +1,8 @@
+Explain how the boggle problem is solved? (Given an nxm grid, and a dictionary, find all words inthe idctionary that appear on the grid (formed by adjacent letters including diagonals))
+
+You would perform on each letter, comparing to see if each string is in the dictionary while also keeping track of previous letters were visited
+
+Explain the syntax flex:1, flex:2 etc 
+
+Parent gets display: flex 
+giving each child flex:1 makes each child same width 
