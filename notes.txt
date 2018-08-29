@@ -6,3 +6,20 @@ Explain the syntax flex:1, flex:2 etc
 
 Parent gets display: flex 
 giving each child flex:1 makes each child same width 
+
+what is the default value of align-items in the flex world? 
+
+stretch gives built in equal height columns for the children 
+
+flex-start and flex-end shows original height 
+
+what is flex-basis? 
+
+its likeing using width: 30% but would use flex-bais: 30% when using flex-box show each child is 30% of width 
+
+Explain flex-wrap 
+
+flex-wrap: wrap drops listed items to multiple rows when screen get smaller
+
+What is margin: auto used for? 
+When used with flexbox, completely centers an item vertically and horizontally
