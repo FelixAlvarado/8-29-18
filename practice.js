@@ -40,3 +40,5 @@ max.bark();
 // console.log('name change', max.name);
 // console.log('mammel type', max.type);
 // console.log('say type', max.sayType());
+let instance = null;
+
